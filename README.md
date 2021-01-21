@@ -1,2 +1,2 @@
 # Test
-Just a hello world project. First change. Changed User name
+Just a hello world project. First change.
